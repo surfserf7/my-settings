@@ -1,0 +1,14 @@
+VIM HINTS
+
+Note: Some of these depend on specific settings 
+in my .vimrc file.
+
+To clone my settings:
+  git clone https://github.com/surfserf7/my-settings ~/.vim
+Then, set a link to the new .vimrc in the repository:
+  ln -s ~/.vim/.vimrc .vimrc
+
+Insert Mode: i, A, etc. 
+Command Mode: Esc, ;;, alt-mvmt, etc.
+
+Move Forward: j, l, w, etc.
