@@ -13,9 +13,9 @@ set noeb vb t_vb=i
 " Enable syntax highlighting
 syntax enable
 
-" Use the solarized color scheme
-let g:solarized_termcolors=16
-colorscheme solarized
+" Use the vividchalk color scheme
+"    let g:solarized_termcolors=16
+colorscheme vividchalk
 set background=dark
 
 " Better command-line completion
