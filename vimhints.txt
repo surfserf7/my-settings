@@ -8,6 +8,12 @@ To clone my settings:
 Then, set a link to the new .vimrc in the repository:
   ln -s ~/.vim/.vimrc .vimrc
 
+To get any updates from Github:
+  git pull origin master
+
+To post any changes to Github:
+  git push origin
+
 Insert Mode: i, A, etc. 
 Command Mode: Esc, ;;, alt-mvmt, etc.
 
