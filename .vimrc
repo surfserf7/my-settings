@@ -95,3 +95,6 @@ imap ;; <Esc>
 imap <S-space> <Esc>
 nmap <F2> :w<cr>
 
+" Use ctrl-c to copy to system clipboard
+vnoremap <C-c> "*y
+
